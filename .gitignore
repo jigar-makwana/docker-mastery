@@ -150,3 +150,6 @@ $RECYCLE.BIN/
 
 # vscode tmp files
 .dccache
+/.idea/
+/.vscode/
+/.github/
